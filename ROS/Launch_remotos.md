@@ -9,3 +9,4 @@ Primero, se debe crear una par de clave SSH para permitir la conexion a la maqui
 * http://wiki.ros.org/roslaunch/XML/machine
 * http://wiki.ros.org/ric/Tutorials/Network%20setup%20for%20controlling%20multiple%20robots%20from%20a%20remote%20machine
 * http://wiki.ros.org/ROS/Tutorials/MultipleMachines
+* http://wiki.ros.org/ROS/NetworkSetup
