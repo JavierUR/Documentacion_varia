@@ -5,4 +5,4 @@ Documentation de cosas útiles
 * [Launch remotos](https://github.com/JavierUR/Documentacion_varia/blob/master/ROS/Launch_remotos.md)
 
 ## Linux
-* [Claves SSH](https://github.com/JavierUR/Documentacion_varia/blob/master/README.md)
+* [Claves SSH](https://github.com/JavierUR/Documentacion_varia/blob/master/Linux/clave_ssh.md)
