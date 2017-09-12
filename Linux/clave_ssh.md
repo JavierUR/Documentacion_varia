@@ -1,12 +1,15 @@
 ## Crear clave ssh
 Un par de clave ssh para permitir la conexon sin contraseña a una maquina remota.
+
+Los siguientes comandos se ejecutan desde la maquina local.
+
 Se crea una clave con nombre _key_ de tipo ecdsa de 521-bit
 
 ```
 ssh-keygen -f ~/.ssh/key -t ecdsa -b 521
 ```
 
-Copiar la clave a la maquina remota
+Copiar la clave a la maquina remota(pedirá la contraseña de la maquina remota):
 
 ```
 ssh-copy-id -i ~/.ssh/key user@host
