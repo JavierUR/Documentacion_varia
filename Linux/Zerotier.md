@@ -25,3 +25,6 @@ Usando la terminal, se puede unir a una red con
 sudo zerotier-cli join <address>
 ```
 donde <address\> es la id de la red con 16 digitos
+
+### Referencia
+* https://www.zerotier.com/download.shtml
