@@ -10,3 +10,7 @@ Documentation de cosas útiles
 * [Mosh](https://github.com/JavierUR/Documentacion_varia/blob/master/Linux/Mosh.md)
 * [ZeroTier](https://github.com/JavierUR/Documentacion_varia/blob/master/Linux/Zerotier.md)
 * [NFS](https://github.com/JavierUR/Documentacion_varia/blob/master/Linux/NFS.md)
+
+## Python
+* [Optimización](https://github.com/JavierUR/Documentacion_varia/blob/master/Python/Optimizacion.md)
+* [Usar libreria de C](https://github.com/JavierUR/Documentacion_varia/blob/master/Python/LibreriaC.md)
