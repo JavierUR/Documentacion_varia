@@ -21,7 +21,7 @@ double sum_it(double *array, int size) {
 Se debe compilar el código como `.dll` en Windows o `.so` en linux
 ej: `gcc -Wall -O3 -shared summer.cpp -o summer.so`
 
-##Crear librería en python
+## Crear librería en python
 Se crea una librería que hace de _wrapper_  en python como la siguiente:
 ```
 # summer/__init.py__
