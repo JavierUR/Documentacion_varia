@@ -34,6 +34,12 @@ Permiten analizar el codigo en más detalle
 * Instalacion
 {pip|conda} install line-profiler
 * Uso:
+
+Cargar extensión
+```
+%load_ext line_profiler
+```
+Testear una función
 ```
 %lprun -f function function()
 ```
