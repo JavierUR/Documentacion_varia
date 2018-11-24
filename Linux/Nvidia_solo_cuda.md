@@ -14,7 +14,7 @@ https://www.nvidia.com/Download/index.aspx
 
 * Reiniciar( **siguientes pasos sin interfaz gráfica**)
 
-##Desactivar nouvou
+## Desactivar nouvou
 Seguir pasos [aquí](https://linuxconfig.org/how-to-disable-nouveau-nvidia-driver-on-ubuntu-18-04-bionic-beaver-linux)
 
 ## Instalar driver
