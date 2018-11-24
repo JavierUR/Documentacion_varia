@@ -1,6 +1,6 @@
 # Nvidia solo para CUDA
 
-!Pasos sin interfaz gráfica!
+¡Pasos sin interfaz gráfica!
 
 ## Descargar driver de nvidia
 https://www.nvidia.com/Download/index.aspx
