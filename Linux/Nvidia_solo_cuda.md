@@ -1,6 +1,6 @@
 # Nvidia solo para CUDA
 
-¡Pasos sin interfaz gráfica!
+!Pasos sin interfaz gráfica!
 
 ## Descargar driver de nvidia
 https://www.nvidia.com/Download/index.aspx
@@ -14,13 +14,14 @@ https://www.nvidia.com/Download/index.aspx
 
 * Reiniciar( **siguientes pasos sin interfaz gráfica**)
 
-## Desactivar nouvou
+##Desactivar nouvou
 Seguir pasos [aquí](https://linuxconfig.org/how-to-disable-nouveau-nvidia-driver-on-ubuntu-18-04-bionic-beaver-linux)
 
 ## Instalar driver
 
 Ir a la carpeta e intalar el driver de esta forma reemplazando el nomre del driver:
 `sudo sh <archivo_driver> --no-opengl-files --dkms --no-drm`
+Si falla por la version de gcc probr agregando `--no-cc-version-check`
 
 Opciones a usar:
 
