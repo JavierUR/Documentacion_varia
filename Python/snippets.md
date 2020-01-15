@@ -9,3 +9,8 @@ with PyZipFile("file.zip") as pzf:
     pzf.extractall()
 ```
 
+## Upload module with twine
+
+Upload module without error if it already exists.
+
+`twine upload --skip-existing dist/*` 
