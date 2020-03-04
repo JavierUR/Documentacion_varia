@@ -50,3 +50,11 @@ docker container prune
 docker container rm <name_or_id>
 ```
 
+
+
+## Delete non tagged images
+
+```bash
+docker rmi $(docker images | grep "^<none>" | awk "{print $3}")
+```
+
