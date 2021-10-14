@@ -2,8 +2,10 @@
 
 ## Create image
 * Locate drive label: `sudo fdisk -l`
-* Copy sdcard: `sudo dd if=<sdcard> of=raspberry_backup.img`
-  * example: `sudo dd if=/dev/sdb of=raspberry_backup.img` 
+* Unmount all sdcard devices: `sudo umount <sdcard>/<device>`
+  * example: `sudo umount /dev/sdb/sdb1`
+* Copy sdcard: `sudo dd if=<sdcard> of=raspberry_backup.img status=progress`
+  * example: `sudo dd if=/dev/sdb of=raspberry_backup.img status=progress` 
 
 ### (optional) Reduce image partition size
 For installing on smaller sdcards
